@@ -1,0 +1,48 @@
+[
+    {
+        "_id": "1",
+        "Title": "Modern APIs with FastAPI MongoDB and Python",
+        "Description": "Learn to use FastAPI, async + await, Pydantic, and MongoDB to build modern web apps with   Python and become the FastAPI expert on your team.",
+        "Date": "29 May 2023",
+        "Location": "Dhaka"
+
+    },
+    {
+        "_id": "2",
+        "Title": "Jump Into Data Science in Python",
+        "Description": "Stop clicking through Excel and start comfortably coding in Python with this live cohort-based course brought to you by Yale Faculty.",
+        "Date": "26 May 2023",
+        "Location": "Chittagong",
+        "host": "Dr. Elena Grewal and Sarah McGowan",
+        "aboutHost": "Yale Faculty, ex-Head of Data Science @ Airbnb, ex-Bain, Stanford University",
+        "overview": "Develop the most useful day-to-day data science skills by working closely with the instructors during this intensive 3-week course. Have fun alongside a group of curious students (welcoming to women and non-binary students!). This course will change your mind about coding being boring or too hard.The class is a flipped class, meaning you'll watch tailor-made videos at your own pace, and we'll convene 2 times a week (from 6:00-7:30pm EST) for hands-on practice. Throughout, we'll be here to answer questions and give you personal feedback. We are here for you. This class is best for students with familiarity with datasets (eg. Excel tables), and a solid understanding of high school math. The class is based on the top-rated class Dr. Grewal and McGowan teach at the Yale School of Environment."
+    },
+    {
+        "_id": "3",
+        "Title": "UX Intensive",
+        "Description": "We help creatives to confidently apply the UX process used by top companies to build useful and meaningful products.",
+        "Date": "22 March 2023",
+        "Location": "Khulna"
+    },
+    {
+        "_id": "4",
+        "Title": "Digital Wellbeing - Use technology as a tool not a distraction",
+        "Description": "Regain control over your attention, productivity and creativity. Practical tips beyond simply putting your phone away.",
+        "Date": "01 February 2023",
+        "Location": "Dhaka"
+    },
+    {
+        "_id": "5",
+        "Title": "Design System BootCamp",
+        "Description": "Gain the skills & confidence to build a design system in Figma. Whether you build a design system for your product or just for practice. You'll become an expert in Figma's most advanced features and workflows.",
+        "Date": "23 January 2023",
+        "Location": "Sylhet"
+    },
+    {
+        "_id": "6",
+        "Title": "Mastering Software Engineering",
+        "Description": "Learn insights into software engineering gained from developing large-scale products at companies such as Uber, Airbnb, and Microsoft",
+        "Date": "25 December 2022",
+        "Location": "Chittagong"
+    }
+]
